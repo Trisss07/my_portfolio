@@ -1,0 +1,68 @@
+.navbar{
+    background-color: #0F1B3C;
+    
+    
+}
+
+.custom-nav {
+    border-bottom: 2px solid #eaebef;
+   
+}
+.navbar-brand{
+     margin-left: -100px;
+}
+
+.nav-link{
+    color:aliceblue;
+    margin-right: 30px;
+    font-size: 17px;
+}
+.navbar-nav{
+    margin-left: 500px;
+    margin-right: 0px;
+    padding-bottom: 20px;
+    
+}
+
+body{
+    background-color: #0F1B3C;
+    
+}
+
+p{
+    color: aliceblue;
+    border: 1px solid #eaebef;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-top: 20px;
+    
+     
+    
+    
+}
+
+.typewriter {
+    color:aliceblue;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    animation: typing 2s steps(20) forwards, blink 0.7s step-end infinite;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 270px; } 
+}
+
+@keyframes blink {
+    50% { border-color: aliceblue; }
+}
+.center-box {
+    text-align: center;
+    width: 100%;
+}
+
